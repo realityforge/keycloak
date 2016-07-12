@@ -26,6 +26,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>org.realityforge.org.keycloak</groupId>
     <artifactId>keycloak-servlet-adapter-spi</artifactId>
     <name>Keycloak Servlet Integration</name>
     <description/>
